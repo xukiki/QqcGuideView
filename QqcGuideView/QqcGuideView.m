@@ -7,6 +7,7 @@
 //
 
 #import "QqcGuideView.h"
+#import "UIView+Qqc.h"
 
 static NSInteger kCloseViewTag = 100;
 

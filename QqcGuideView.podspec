@@ -12,5 +12,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/xukiki/QqcGuideView.git", :tag => "#{s.version}" }
   
   s.source_files  = ["QqcGuideView/*.{h,m}"]
+  s.dependency "UIView-Qqc"
   
 end
